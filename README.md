@@ -1,4 +1,4 @@
-# My work assignment Title
+# Magica
 
 Repository to host the project developed for 'some class', a n^th^ year subject at SOMESCHOOL. Developed by Group ALPHA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
 
