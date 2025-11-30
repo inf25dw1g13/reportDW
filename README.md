@@ -4,7 +4,7 @@ Repositório para hospedar o projeto desenvolvido para Desenvolvimento Web I, um
 
 ## Descrição curta do projeto
 
-O projeto tem como objetivo simular o funcionamento de um sistema de entregas de comida. Este foi desenvolvido através da utilização de uma aplicação, api, e uma base de dados (3, e em MariaDB, neste caso).
+O projeto tem como objetivo simular o funcionamento de um sistema de entregas de comida. Este foi desenvolvido através da utilização de uma aplicação e uma base de dados (3, e em MariaDB, neste caso).
 
 ## Organização do Projeto
 
