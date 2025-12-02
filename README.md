@@ -18,9 +18,9 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
 
-| Cat Pic | Dog Pic |
+| Cat Pic | ![cat2](<img src="doc/images/arquitetura_api.png" alt="Swagger UI — lista de endpoints" width="200"/> |
 | ------------------------ | ------------------------ |
-| ![cat](doc/images/arquitetura_api.png) | ![dog](doc/images/fluxo_dados.png) |
+| ![dog](doc/images/fluxo_dados.png) | ![dog](doc/images/fluxo_dados.png) |
 | ![cat2](<img src="doc/images/arquitetura_api.png" alt="Swagger UI — lista de endpoints" width="200"/>) | ![dog2](images/dog2.png) |
 
 ## Technologies
