@@ -21,7 +21,7 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 | Cat Pic | Dog Pic |
 | ------------------------ | ------------------------ |
 | ![cat](doc/images/arquitetura_api.png) | ![dog](doc/images/fluxo_dados.png) |
-| ![cat2](images/cat2.png) | ![dog2](images/dog2.png) |
+| ![cat2](<img src="doc/images/arquitetura_api.png" alt="Swagger UI — lista de endpoints" width="200"/>) | ![dog2](images/dog2.png) |
 
 ## Technologies
 
