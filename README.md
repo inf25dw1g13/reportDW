@@ -18,7 +18,7 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
 
-| DockerHub: Containers | ![cat2](<img src="" alt="Swagger UI — lista de endpoints" width="570"/> |
+| DockerHub: Containers | ![cat2](<img src="doc/images/docker-imagens.png" alt="Swagger UI — lista de endpoints" width="570"/> |
 | DockerHub: Images     | ![cat2](<img src="" alt="Swagger UI — lista de endpoints" width="570"/> |
 | Swagger UI            | ![cat2](<img src="" alt="Swagger UI — lista de endpoints" width="570"/> |
 | Swagger UI: Exemplo   | ![cat2](<img src="" alt="Swagger UI — lista de endpoints" width="570"/> |
