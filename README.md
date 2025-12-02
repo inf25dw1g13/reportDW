@@ -106,6 +106,9 @@ O sistema implementa uma arquitetura de replicação de base de dados utilizando
 * Chapter 4: [Apresentação](doc/c4.md)
 
 ## Grupo
-* Felipe Castilho -> [GitHub](https://github.com/a047152); email: a047152@umaia.pt
-* Juliana Moreira -> [GitHub](https://github.com/julianaam13); email: a047188@umaia.pt
-* Marta Vieira -> [GutHub](http://github.com/xmarta19); email: a046756@umaia.pt
+
+## Grupo inf25dw1g13
+* [Felipe Castilho](https://github.com/a047152) - a047152@umaia.pt
+* [Juliana Moreira](https://github.com/julianaam13) - a047188@umaia.pt
+* [Marta Vieira](https://github.com/xmarta19) - a046756@umaia.pt
+
