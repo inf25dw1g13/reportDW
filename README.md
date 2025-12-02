@@ -18,10 +18,13 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
 
+| Descrição            | Imagem |
+|----------------------|--------|
 | DockerHub: Containers | <img src="doc/images/imagens-docker.png" alt="DockerHub: Containers" width="570"/> |
 | DockerHub: Images     | <img src="doc/images/imagens-docker.png" alt="DockerHub: Images" width="570"/> |
-| Swagger UI            | <img src="doc/images/imagens-docker.png" alt="Swagger UI " width="570"/> |
+| Swagger UI            | <img src="doc/images/imagens-docker.png" alt="Swagger UI" width="570"/> |
 | Swagger UI: Exemplo   | <img src="doc/images/imagens-docker.png" alt="Swagger UI: Exemplo" width="570"/> |
+
 
 ## Technologies
 
